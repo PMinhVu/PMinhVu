@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a student at [International University](https://hcmiu.edu.vn/).
+- ✍ I'm a student at [International University-Vietnam National HCMC](https://hcmiu.edu.vn/).
 
 <br />
 
