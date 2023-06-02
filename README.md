@@ -20,6 +20,9 @@
   <a href="https://www.facebook.com/profile.php?id=100004748865639" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
+  <a href="https://www.instagram.com/vuuuupham/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>
+  </a>
   <a href="https://github.com/PMinhVu" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
